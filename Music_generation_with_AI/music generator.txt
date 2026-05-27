@@ -1,0 +1,31 @@
+project title:
+
+Music Generation With AI
+
+Description:
+
+This project is an automated music composition system that uses Deep Learning to generate 
+original melodies. It works by training a neural network on a dataset of MIDI files (musical instructions)
+ to learn the patterns of rhythm and pitch. Once trained, the model can predict the "next logical note" 
+ in a sequence, creating a continuous piece of music that sounds structured rather than random.
+
+ Technologies used:
+
+ -Python 3.10
+ -TensorFlow
+ -music21
+ -MIDI (Musical Instrument Digital Interface)
+
+ How to run:
+
+ 1.install requied libraries:py -3.10 -m pip install tensorflow music21
+ 2.py -3.10 -m pip install tensorflow music21
+ 3.py -3.10 create_dataset.py
+ 4.py -3.10 music_generator.py
+
+Applications:
+
+.Game Development
+.Content Creation
+.Music Assistance
+.Adaptive Audio

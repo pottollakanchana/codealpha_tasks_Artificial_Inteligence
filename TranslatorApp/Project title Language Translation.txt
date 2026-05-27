@@ -1,0 +1,32 @@
+Project title: 1
+Language Translation Tool
+
+Description:
+The Language Translation Tool is a Python application that translates text from one language to another language using an API.
+It provides a simple interface for input, language selection, and displays the translated output.
+
+Technologies used:
+1.python
+2.Tkinter
+3.Googletrans API
+
+
+How to run:
+1.Install python
+2.Install library using pip install google trans==4.0.0-rc1
+3.run the code
+
+
+This tool allows users to:
+1.Enter the text
+2.choose source language
+3.choose target language
+4.translate the text using API
+5.viwe the translated text
+6.copy the text
+
+Applications:
+-Language learning
+-communication across different languages
+-Educational purposes
+-Basic translation needs

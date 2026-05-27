@@ -1,0 +1,32 @@
+Project title: 2
+FAQ chatbot using NLP
+
+Description:
+The Language Translation Tool is a Python application that translates text from one language to another language using an API.
+It provides a simple interface for input, language selection, and displays the translated output.
+
+Technologies used:
+1.python
+2.NLTK
+3.Scikit-learn
+4.TF-IDF vectorizer
+5.cosine similarity
+
+How to run:
+1.install python
+2.Install required libraries using: pip install nltk scikit-learn
+3.create a file as final_chatbot.py
+4.run the code
+5.enter your questions and get answers for the questions
+
+
+This tool allows users to:
+1.Enter the question
+2.get answer from your question
+
+Applications:
+-customer support
+-E-commerce websites
+-Educational platforms
+-Healthcare systems
+-company websites
